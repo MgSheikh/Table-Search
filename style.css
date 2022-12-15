@@ -1,5 +1,6 @@
 body{
   padding:20px 20px;
+  text-align: center;
 }
 
 .results tr[visible='false'],
@@ -15,3 +16,10 @@ body{
   padding:8px; 
   color:#ccc;
 }
+table {
+  text-align: center;
+}
+html {
+  text-align: center;
+}
+
